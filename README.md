@@ -20,3 +20,7 @@ This project is a classic arcade-style game where the player controls a paddle t
 2. **Control the Paddle:** Use the left and right arrow keys to move the paddle.
 3. **Break Bricks:** Bounce the ball off the paddle to break the bricks and earn points.
 4. **Winning:** Clear all the bricks to win the game.
+
+## Gameplay
+![BrickBreakerExample](https://github.com/Crazyduderik/brick_breaker_Java/assets/91811876/9b413ea7-fc59-4bf0-ace4-35f94cfedfc9)
+
